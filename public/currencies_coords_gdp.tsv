@@ -1,0 +1,176 @@
+name	altcoin	abb	country	group	lat	long	gdp_name	gdp_unit	gdp_2013	gdp_2014	gdp_2015	gdp_2016	gdp_2017	gdp_2018	gdp_2019	notes
+Algerian Dinar	FALSE	DZD	Algeria		28.033886	1.659626	Algeria	Current, USD billion	209.755	213.81	165.979	160.034	167.39	173.757	172.781	
+Namibian Dollar	FALSE	NAD	Namibia		-22.95764	18.49041	Namibia	Current, USD billion	12.724	12.796	11.769	11.283	13.562	14.513	14.368	
+Ghanaian Cedi	FALSE	GHS	Ghana		7.946527	-1.023194	Ghana	Current, USD billion	63.279	53.173	48.595	54.989	58.978	65.518	67.077	
+Egyptian Pound	FALSE	EGP	Egypt		26.820553	30.802498	Egypt	Current, USD billion	288.007	305.567	332.075	332.484	236.528	249.559	302.256	
+Bulgarian Lev	FALSE	BGN	Bulgaria		42.733883	25.48583	Bulgaria	Current, USD billion	55.557	56.815	50.201	53.236	58.342	65.197	66.25	
+East Caribbean Dollar	FALSE	XCD	Antigua and Barbuda,Dominica,Grenada,St. Kitts and Nevis,St. Lucia,St. Vincent and the Grenadines	OECS	15.4238729	-61.3600668	Antigua and Barbuda/Dominica/Grenada/St. Kitts and Nevis/St. Lucia/St. Vincent and the Grenadines	Current, USD billion	5.571	5.804	6.141	6.447	6.669	7.042	7.399	gdp: agg
+Panamanian Balboa	FALSE	PAB	Panama		8.537981	-80.782127	Panama	Current, USD billion	45.6	49.921	54.092	57.958	62.284	65.055	68.536	
+Bolivian Boliviano	FALSE	BOB	Bolivia		-16.290154	-63.588653	Bolivia	Current, USD billion	30.883	33.237	33.241	34.189	37.782	40.581	42.401	
+Danish Krone	FALSE	DKK	Denmark		56.26392	9.501785	Denmark	Current, USD billion	343.584	352.994	302.673	311.988	329.866	352.058	347.176	
+Botswanan Pula	FALSE	BWP	Botswana		-22.328474	24.684866	Botswana	Current, USD billion	14.915	16.259	14.445	15.658	17.383	18.615	18.69	
+Lebanese Pound	FALSE	LBP	Lebanon		33.854721	35.862285	Lebanon	Current, USD billion	46.867	48.296	49.974	51.239	53.394	56.372	58.565	
+Tanzanian Shilling	FALSE	TZS	Tanzania		-6.369028	34.888822	Tanzania	Current, USD billion	45.681	50.002	47.384	49.774	53.227	56.852	62.224	
+Vietnamese Dong	FALSE	VND	Vietnam		14.058324	108.277199	Vietnam	Current, USD billion	170.444	185.759	191.288	201.326	220.376	241.272	261.637	
+Angolan Kwanza	FALSE	AOA	Angola		-11.202692	17.873887	Angola	Current, USD billion	136.71	145.712	116.194	101.124	122.124	105.902	91.527	
+Cambodian Riel	FALSE	KHR	Cambodia		12.565679	104.990963	Cambodia	Current, USD billion	15.228	16.702	18.083	20.043	22.189	24.444	26.73	
+Malaysian Ringgit	FALSE	MYR	Malaysia		4.210484	101.975766	Malaysia	Current, USD billion	327.869	342.868	301.355	301.255	318.955	358.579	365.303	
+Cayman Islands Dollar	FALSE	KYD	Cayman Islands		19.513469	-80.566956	Cayman Islands	Current, USD billion	4.405954638	4.563017881	4.708336733	4.898908676	5.141833913			gdp: external (WB)
+Libyan Dinar	FALSE	LYD	Libya		26.3351	17.228331	Libya	Current, USD billion	51.896	24.262	17.194	18.539	30.557	40.951	33.018	
+Ukrainian Hryvnia	FALSE	UAH	Ukraine		48.379433	31.16558	Ukraine	Current, USD billion	179.572	130.571	90.489	93.313	112.125	130.857	150.401	
+Jordanian Dinar	FALSE	JOD	Jordan		30.585164	36.238414	Jordan	Current, USD billion	34.115	36.382	37.97	39.253	40.766	42.291	44.172	
+Aruban Florin	FALSE	AWG	Aruba		12.52111	-69.968338	Aruba	Current, USD billion	2.58	2.649	2.691	2.657	2.679	2.822	2.903	
+Saudi Riyal	FALSE	SAR	Saudi Arabia		23.885942	45.079162	Saudi Arabia	Current, USD billion	746.647	756.35	654.27	644.936	688.586	786.522	779.289	
+Silver	FALSE	XAG														
+Hong Kong Dollar	FALSE	HKD	Hong Kong		22.396428	114.109497	Hong Kong SAR	Current, USD billion	275.673	291.438	309.359	320.877	341.718	362.721	372.989	
+Swiss Franc	FALSE	CHF	Switzerland		46.818188	8.227512	Switzerland	Current, USD billion	688.729	709.481	679.728	671.399	680.029	705.546	715.36	
+Gibraltar Pound	FALSE	GIP	Gibraltar		36.137741	-5.345374	Gilbraltar	Current, USD billion								
+Mauritanian Ouguiya (2nd)	FALSE	MRU	Mauritania		21.00789	-10.940835	Mauritania	Current, USD billion	5.724	5.391	4.831	4.686	4.925	5.237	5.651	
+Mauritanian Ouguiya (1st)	FALSE	MRO	Mauritania		21.00789	-10.940835	Mauritania	Current, USD billion	5.724	5.391	4.831	4.686	4.925	5.237	5.651	
+XAR	FALSE	XAR														
+Albanian Lek	FALSE	ALL	Albania		41.153332	20.168331	Albania	Current, USD billion	12.784	13.246	11.389	11.862	13.059	15.059	15.418	
+Palladium	FALSE	XPD														
+Belarusian Ruble	FALSE	BYN	Belarus		53.709807	27.953389	Belarus	Current, USD billion	75.496	78.736	56.329	47.703	54.723	59.643	62.572	
+Croatian Kuna	FALSE	HRK	Croatia		45.1	15.2	Croatia	Current, USD billion	58.158	57.683	49.519	51.623	55.201	60.805	60.702	
+Djiboutian Franc	FALSE	DJF	Djibouti		11.825138	42.590275	Djibouti	Current, USD billion	2.043	2.216	2.445	2.619	2.767	2.923	3.166	
+Swazi Lilangeni	FALSE	SZL	Swaziland		-26.522503	31.465866	Eswatini	Current, USD billion	4.6	4.426	4.075	3.84	4.452	4.711	4.657	
+Thai Baht	FALSE	THB	Thailand		15.870032	100.992541	Thailand	Current, USD billion	420.334	407.339	401.266	412.411	455.322	504.928	529.177	
+Central African CFA Franc	FALSE	XAF	Cameroon,Central African Republic,Chad,Congo,Equatorial Guinea,Gabon	CFA franc zone (Central)	8.61376863	17.00213841	Cameroon/Central African Republic/Chad/Republic of Congo/Equatorial Guinea/Gabon	Current, USD billion	100.609	104.944	79.699	77.702	83.29	94.316	92.574	gdp: agg
+Brunei Dollar	FALSE	BND	Brunei		4.535277	114.727669	Brunei Darussalam	Current, USD billion	18.092	17.098	12.931	11.399	12.128	13.568	12.455	
+Icelandic Króna	FALSE	ISK	Iceland		64.963051	-19.020835	Iceland	Current, USD billion	16.034	17.758	17.389	20.618	24.457	25.965	23.918	
+Uruguayan Peso	FALSE	UYU	Uruguay		-32.522779	-55.765835	Uruguay	Current, USD billion	57.531	57.236	53.275	52.687	59.546	59.651	59.918	
+Nicaraguan Córdoba	FALSE	NIO	Nicaragua		12.865416	-85.207229	Nicaragua	Current, USD billion	10.983	11.88	12.757	13.286	13.844	13.118	12.528	
+Laotian Kip	FALSE	LAK	Laos		19.85627	102.495496	Lao P.D.R.	Current, USD billion	11.974	13.266	14.363	15.916	17.069	18.12	19.127	
+Syrian Pound	FALSE	SYP	Syria		34.802075	38.996815	Syria	Current, USD billion								
+Moroccan Dirham	FALSE	MAD	Morocco		31.791702	-7.09262	Morocco	Current, USD billion	106.826	110.081	101.179	103.346	109.709	118.534	119.04	
+Mozambican Metical	FALSE	MZN	Mozambique		-18.665695	35.529562	Mozambique	Current, USD billion	16.013	16.872	14.798	10.897	12.586	14.396	15.093	
+Philippine Piso	FALSE	PHP	Philippines		12.879721	121.774017	Philippines	Current, USD billion	271.836	284.585	292.774	304.898	313.62	330.91	356.814	
+South African Rand	FALSE	ZAR	South Africa		-30.559482	22.937506	South Africa	Current, USD billion	366.821	350.901	317.578	296.273	349.433	368.135	358.839	
+Nepalese Rupee	FALSE	NPR	Nepal		28.394857	84.124008	Nepal	Current, USD billion	19.27	19.995	21.411	21.186	25.181	29.04	29.813	
+Zimbabwean Dollar	FALSE	ZWL	Zimbabwe		-19.015438	29.154857	Zimbabwe	Current, USD billion	19.091	19.496	19.963	20.054	21.89	20.997	12.818	
+Nigerian Naira	FALSE	NGN	Nigeria		9.081999	8.675277	Nigeria	Current, USD billion	514.965	568.496	493.841	405.442	376.361	398.186	446.543	
+Costa Rican Colón	FALSE	CRC	Costa Rica		9.748917	-83.753428	Costa Rica	Current, USD billion	50.326	51.181	55.41	57.828	58.654	60.464	61.021	
+United Arab Emirates Dirham	FALSE	AED	United Arab Emirates		23.424076	53.847818	United Arab Emirates	Current, USD billion	390.108	403.137	358.135	357.045	377.701	414.179	405.771	
+British Pound	FALSE	GBP	United Kingdom		55.378051	-3.435973	United Kingdom	Current, USD billion	2755.36	3036.31	2897.06	2669.11	2640.07	2828.83	2743.59	
+Malawian Kwacha	FALSE	MWK	Malawi		-13.254308	34.301525	Malawi	Current, USD billion	5.432	6.055	6.402	5.492	6.23	6.901	7.522	
+Sri Lankan Rupee	FALSE	LKR	Sri Lanka		7.873054	80.771797	Sri Lanka	Current, USD billion	74.277	79.312	80.557	82.39	88.013	88.901	86.566	
+Dominican Peso	FALSE	DOP	Dominican Republic		18.735693	-70.162651	Dominican Republic	Current, USD billion	62.758	67.264	71.254	75.777	80.082	85.63	89.475	
+Pakistani Rupee	FALSE	PKR	Pakistan		30.375321	69.345116	Pakistan	Current, USD billion	231.218	244.361	270.556	278.655	304.567	314.588	284.214	
+Hungarian Forint	FALSE	HUF	Hungary		47.162494	19.503304	Hungary	Current, USD billion	135.221	140.083	123.074	126.045	139.844	161.182	170.407	
+Bermudan Dollar	FALSE	BMD	Bermuda		32.321384	-64.75737	Bermuda	Current, USD billion	5.57371							gdp: external (WB)
+Lesotho Loti	FALSE	LSL	Lesotho		-29.609988	28.233608	Lesotho	Current, USD billion	2.506	2.635	2.326	2.423	2.677	2.713	2.741	
+Mongolian Tugrik	FALSE	MNT	Mongolia		46.862496	103.846656	Mongolia	Current, USD billion	12.582	12.227	11.75	11.159	11.426	13.009	13.637	
+Armenian Dram	FALSE	AMD	Armenia		40.069099	45.038189	Armenia	Current, USD billion	11.121	11.61	10.553	10.546	11.527	12.433	13.444	
+Ugandan Shilling	FALSE	UGX	Uganda		1.373333	32.290275	Uganda	Current, USD billion	25.71	26.723	22.96	24.75	26.464	28.116	30.666	
+Qatari Rial	FALSE	QAR	Qatar		25.354826	51.183884	Qatar	Current, USD billion	198.728	206.225	161.74	151.732	166.929	191.362	191.849	
+Special Drawing Rights	FALSE	XDR														
+São Tomé & Príncipe Dobra	FALSE	STN	São Tomé and Príncipe		0.18636	6.613081	São Tomé and Príncipe	Current, USD billion	0.303	0.349	0.318	0.348	0.376	0.423	0.43	
+Jamaican Dollar	FALSE	JMD	Jamaica		18.109581	-77.297508	Jamaica	Current, USD billion	14.211	13.864	14.152	14.108	14.773	15.461	15.702	
+Georgian Lari	FALSE	GEL	Georgia		42.315407	43.356892	Georgia	Current, USD billion	16.14	16.51	13.993	14.378	15.08	16.209	15.925	
+Saint Helena	FALSE	SHP	Saint Helena		-24.143474	-10.030696	Saint Helena	Current, USD billion	0.055464320	0.062979520	0.062672890	0.050713600	0.050564990	0.050684400		gdp: external (gov, fiscal year)
+Afghan Afghani	FALSE	AFN	Afghanistan		33.93911	67.709953	Afghanistan	Current, USD billion	20.17	20.616	20.057	19.428	20.235	19.63	18.734	
+Solomon Islands Dollar	FALSE	SBD	Solomon Islands		-9.64571	160.156194	Solomon Islands	Current, USD billion	1.13	1.174	1.158	1.233	1.284	1.378	1.44	
+North Korean Won	FALSE	KPW	North Korea		40.339852	127.510093	Korea, Dem. People’s Rep.	Current, USD billion								
+Turkish Lira	FALSE	TRY	Turkey		38.963745	35.243322	Turkey	Current, USD billion	950.328	934.075	859.449	863.39	852.648	771.274	743.708	
+Bangladeshi Taka	FALSE	BDT	Bangladesh		23.684994	90.356331	Bangladesh	Current, USD billion	161.297	184.013	208.322	235.623	262.077	288.424	317.465	
+Yemeni Rial	FALSE	YER	Yemen		15.552727	48.516388	Yemen	Current, USD billion	40.415	43.229	36.971	28.083	24.561	27.591	29.855	
+Ripple	TRUE	XRP														
+Haitian Gourde	FALSE	HTG	Haiti		18.971187	-72.285215	Haiti	Current, USD billion	8.453	8.775	8.724	7.976	8.409	9.658	8.819	
+West African CFA Franc	FALSE	XOF	Benin,Burkina Faso,Guinea-Bissau,Côte d'Ivoire,Mali,Niger,Senegal,Togo	CFA franc zone (West)	15.53155532	0.3228299296	Benin/Burkina Faso/Guinea-Bissau/Côte d'Ivoire/Mali/Niger/Senegal/Togo	Current, USD billion	100.984	109.047	98.312	104.295	113.777	128.219	131.335	gdp: agg
+Malagasy Ariary	FALSE	MGA	Madagascar		-18.766947	46.869107	Madagascar	Current, USD billion	10.602	10.674	9.703	10.126	11.464	12.09	12.55	
+Netherlands Antillean Guilder	FALSE	ANG	Netherlands Antilles		12.226079	-69.060087	Netherlands Antilles	Current, USD billion								
+Liberian Dollar	FALSE	LRD	Liberia		6.428055	-9.429499	Liberia	Current, USD billion	3.065	3.137	3.163	3.277	3.284	3.248	3.222	
+Rwandan Franc	FALSE	RWF	Rwanda		-1.940278	29.873888	Rwanda	Current, USD billion	7.623	8.01	8.294	8.475	9.14	9.51	10.209	
+Norwegian Krone	FALSE	NOK	Norway		60.472024	8.468946	Norway	Current, USD billion	522.762	498.41	385.802	368.827	398.394	434.167	417.627	
+Macanese Pataca	FALSE	MOP	Macau		22.198745	113.543873	Macao SAR	Current, USD billion	51.552	55.348	45.362	45.322	50.559	54.545	55.136	
+South Sudanese Pound	FALSE	SSP	South Sudan		6.877	31.307	South Sudan	Current, USD billion	14.947	15.105	14.558	3.443	3.438	4.583	3.681	
+Indian Rupee	FALSE	INR	India		20.593684	78.96288	India	Current, USD billion	1856.72	2039.13	2103.59	2289.75	2652.25	2718.73	2935.57	
+Mexican Peso	FALSE	MXN	Mexico		23.634501	-102.552784	Mexico	Current, USD billion	1274.44	1314.57	1170.57	1077.91	1156.95	1222.05	1274.18	
+Czech Koruna	FALSE	CZK	Czech Republic		49.817492	15.472962	Czech Republic	Current, USD billion	209.402	207.818	186.83	195.09	215.914	245.226	246.953	
+Tajikistani Somoni	FALSE	TJS	Tajikistan		38.861034	71.276093	Tajikistan	Current, USD billion	8.506	9.242	7.857	6.953	7.144	7.52	8.152	
+New Taiwan Dollar	FALSE	TWD	Taiwan		23.69781	120.960515	Taiwan Province of China	Current, USD billion	511.599	530.515	525.601	531.357	574.895	589.906	586.104	
+Bhutanese Ngultrum	FALSE	BTN	Bhutan		27.514162	90.433601	Bhutan	Current, USD billion	1.849	1.83	2.028	2.121	2.362	2.582	2.842	
+Colombian Peso	FALSE	COP	Colombia		4.570868	-74.297333	Colombia	Current, USD billion	381.844	381.24	293.493	282.72	311.796	330.974	327.895	
+Turkmenistani Manat	FALSE	TMT	Turkmenistan		38.969719	59.556278	Turkmenistan	Current, USD billion	39.198	43.524	35.8	36.18	37.926	40.761	46.674	
+Mauritian Rupee	FALSE	MUR	Mauritius		-20.348404	57.552152	Mauritius	Current, USD billion	12.13	12.803	11.692	12.232	13.259	14.21	14.391	
+Indonesian Rupiah	FALSE	IDR	Indonesia		-0.789275	113.921327	Indonesia	Current, USD billion	916.646	891.051	860.741	932.066	1015.29	1022.45	1111.71	
+Honduran Lempira	FALSE	HNL	Honduras		15.199999	-86.241905	Honduras	Current, USD billion	18.499	19.757	20.98	21.718	23.101	23.803	24.449	
+CFP Franc	FALSE	CFP	French Polynesia,New Caledonia,Wallis and Futuna	CFP franc zone	-13.7719747	-178.2841314	French Polynesia/New Caledonia/Wallis and Futuna	Current, USD billion								
+Fijian Dollar	FALSE	FJD	Fiji		-16.578193	179.414413	Fiji	Current, USD billion	4.539	4.857	4.663	4.925	5.373	5.524	5.708	
+Ethiopian Birr	FALSE	ETB	Ethiopia		9.145	40.489673	Ethiopia	Current, USD billion	46.544	54.165	63.081	70.886	75.745	80.289	91.166	
+Peruvian Sol	FALSE	PEN	Peru		-9.189967	-75.015152	Peru	Current, USD billion	202.091	202.308	191.316	194.387	214.187	225.366	228.989	
+Belize Dollar	FALSE	BZD	Belize		17.189877	-88.49765	Belize	Current, USD billion	1.608	1.693	1.763	1.807	1.863	1.925	2.001	
+Israeli New Shekel	FALSE	ILS	Israel		31.046051	34.851612	Israel	Current, USD billion	292.636	309.558	299.813	318.951	353.253	370.588	387.717	
+Ethereum	TRUE	ETH														
+GGP	FALSE	GGP														
+Moldovan Leu	FALSE	MDL	Moldova		47.411631	28.369885	Moldova	Current, USD billion	9.496	9.51	7.726	8.072	9.67	11.309	11.688	
+Platinum	FALSE	XPT														
+Bahamian Dollar	FALSE	BSD	Bahamas		25.03428	-77.39628	The Bahamas	Current, USD billion	10.563	10.913	11.752	11.938	12.15	12.425	12.664	
+Swedish Krona	FALSE	SEK	Sweden		60.128161	18.643501	Sweden	Current, USD billion	584.638	580.249	503.651	515.744	540.545	556.073	528.929	
+JEP	FALSE	JEP														
+Australian Dollar	FALSE	AUD	Australia		-25.274398	133.775136	Australia	Current, USD billion	1518.35	1457.49	1235.13	1267.75	1386.77	1420.05	1376.26	
+Surinamese Dollar	FALSE	SRD	Suriname		3.919305	-56.027783	Suriname	Current, USD billion	5.146	5.241	4.787	3.166	3.069	3.427	3.774	
+Cuban Peso	FALSE	CUP	Cuba		21.521757	-77.781167	Cuba	Current, USD billion	77.148000000	80.656000000	87.133000000	91.370000000	96.851000000	100.023000000	97.000000000	gdp: external (WB, 2019:tradingeconomics)
+Chilean Unit of Account	FALSE	CLF	Chile		-35.675147	-71.542969	Chile	Current, USD billion	278.345	260.479	243.909	250.268	277.674	298.18	294.237	
+Barbadian Dollar	FALSE	BBD	Barbados		13.193887	-59.543198	Barbados	Current, USD billion	4.677	4.696	4.715	4.83	4.978	5.087	5.189	
+Comorian Franc	FALSE	KMF	Comoros		-11.875001	43.872219	Comoros	Current, USD billion	1.116	1.15	0.989	1.027	1.081	1.184	1.179	
+South Korean Won	FALSE	KRW	South Korea		35.907757	127.766922	Korea	Current, USD billion	1370.8	1484.32	1465.77	1500.48	1623.9	1720.49	1629.53	
+Gambian Dalasi	FALSE	GMD	Gambia		13.443182	-15.310139	The Gambia	Current, USD billion	1.376	1.229	1.355	1.47	1.498	1.625	1.773	
+Litecoin	TRUE	LTC														
+IMP	FALSE	IMP														
+Cuban Convertible Peso	FALSE	CUC	Cuba		21.521757	-77.781167	Cuba	Current, USD billion	77.148000000	80.656000000	87.133000000	91.370000000	96.851000000	100.023000000	97.000000000	gdp: external (WB, 2019:tradingeconomics)
+Chilean Peso	FALSE	CLP	Chile		-35.675147	-71.542969	Chile	Current, USD billion	278.345	260.479	243.909	250.268	277.674	298.18	294.237	
+Zambian Kwacha	FALSE	ZMW	Zambia		-13.133897	27.849332	Zambia	Current, USD billion	28.046	27.151	21.243	20.941	25.868	26.72	23.946	
+Monero	TRUE	XMR														
+Euro	FALSE	EUR	Austria,Belgium,Cyprus,Estonia,Finland,France,Germany,Greece,Ireland,Italy,Latvia,Lithuania,Luxembourg,Malta,Netherlands,Portugal,Slovakia,Slovenia,Spain,Åland,Andorra,Kosovo,Monaco,Montenegro,St-Martin,St. Pierre and Miquelon,San Marino,Vatican	Eurozone	50.10222	9.25442	Euro area	Current, USD billion	13187.2	13505.8	11669.21	11957.89	12629.65	13639.08	13313.99	
+Congolese Franc	FALSE	CDF	DR Congo		-4.038333	21.758664	Democratic Republic of the Congo	Current, USD billion	32.676	35.911	37.915	36.64	37.615	47.099	48.994	
+Venezuelan Bolívar (Soberano)	FALSE	VES	Venezuela		6.42375	-66.58973	Venezuela	Current, USD billion	234.401	212.347	323.595	279.249	143.841	98.437	70.14	
+Venezuelan Bolívar (Fuerte)	FALSE	VEF	Venezuela		6.42375	-66.58973	Venezuela	Current, USD billion	234.401	212.347	323.595	279.249	143.841	98.437	70.14	
+Kazakhstani Tenge	FALSE	KZT	Kazakhstan		48.019573	66.923684	Kazakhstan	Current, USD billion	236.635	221.416	184.388	137.289	162.887	172.941	170.326	
+Russian Ruble	FALSE	RUB	Russia		61.52401	105.318756	Russia	Current, USD billion	2292.46	2058.31	1356.84	1280.52	1579.29	1657.29	1637.89	
+Trinidad & Tobago Dollar	FALSE	TTD	Trinidad and Tobago		10.691803	-61.222503	Trinidad and Tobago	Current, USD billion	27.11	27.478	25.121	21.754	22.25	22.525	22.607	
+Omani Rial	FALSE	OMR	Oman		21.512583	55.923255	Oman	Current, USD billion	78.784	81.077	68.919	65.481	70.598	79.277	76.609	
+Brazilian Real	FALSE	BRL	Brazil		-14.235004	-51.92528	Brazil	Current, USD billion	2471.53	2456.11	1799.88	1795.37	2052.81	1867.82	1847.02	
+Myanmar Kyat	FALSE	MMK	Myanmar		21.913965	95.956223	Myanmar	Current, USD billion	60.539	63.273	63.225	60.452	61.386	68.668	65.994	
+Polish Zloty	FALSE	PLN	Poland		51.919438	19.145136	Poland	Current, USD billion	524.399	545.284	477.568	471.843	526.749	585.816	565.854	
+Paraguayan Guarani	FALSE	PYG	Paraguay		-23.442503	-58.443832	Paraguay	Current, USD billion	38.585	40.277	36.164	36.054	39.009	41.854	40.714	
+Kenyan Shilling	FALSE	KES	Kenya		-0.023559	37.906193	Kenya	Current, USD billion	55.125	61.547	64.236	69.19	78.689	87.928	98.607	
+Salvadoran Colón	FALSE	SVC	El Salvador		13.794185	-88.89653	El Salvador	Current, USD billion	21.991	22.593	23.438	24.154	24.928	26.057	26.871	
+Macedonian Denar	FALSE	MKD	North Macedonia		41.608635	21.745275	North Macedonia	Current, USD billion	10.824	11.378	10.067	10.686	11.308	12.67	12.672	
+Azerbaijani Manat	FALSE	AZN	Azerbaijan		40.143105	47.576927	Azerbaijan	Current, USD billion	74.16	75.24	50.844	37.83	41.375	46.94	47.171	
+Tongan Paʻanga	FALSE	TOP	Tonga		-21.178986	-175.198242	Tonga	Current, USD billion	0.447	0.445	0.413	0.43	0.47	0.488	0.488	
+Maldivian Rufiyaa	FALSE	MVR	Maldives		3.202778	73.22068	Maldives	Current, USD billion	3.286	3.69	4.098	4.402	4.858	5.328	5.786	
+Vanuatu Vatu	FALSE	VUV	Vanuatu		-15.376706	166.959158	Vanuatu	Current, USD billion	0.798	0.817	0.774	0.798	0.88	0.928	0.951	
+Guinean Franc	FALSE	GNF	Guinea		9.945587	-9.696645	Guinea	Current, USD billion	8.374	8.79	8.79	8.604	10.306	12.099	13.368	
+Samoan Tala	FALSE	WST	Samoa		-13.759029	-172.104629	Samoa	Current, USD billion	0.805	0.804	0.804	0.786	0.841	0.862	0.905	
+Iraqi Dinar	FALSE	IQD	Iraq		33.223191	43.679291	Iraq	Current, USD billion	234.638	234.651	177.722	175.151	195.473	224.228	224.462	
+Eritrean Nakfa	FALSE	ERN	Eritrea		15.179384	39.782334	Eritrea	Current, USD billion	1.958	2.604	2.008	2.213	1.919	2.007	2.11	
+Bosnia-Herzegovina Convertible Mark	FALSE	BAM	Bosnia and Herzegovina		43.915886	17.679076	Bosnia and Herzegovina	Current, USD billion	18.155	18.522	16.21	16.91	18.081	20.162	20.106	
+Seychellois Rupee	FALSE	SCR	Seychelles		-4.679574	55.491977	Seychelles	Current, USD billion	1.328	1.343	1.377	1.427	1.503	1.583	1.644	
+Canadian Dollar	FALSE	CAD	Canada		56.130366	-106.346771	Canada	Current, USD billion	1846.6	1805.75	1556.51	1530.02	1649.93	1712.48	1730.91	
+Cape Verdean Escudo	FALSE	CVE	Cape Verde		16.002082	-24.013197	Cabo Verde	Current, USD billion	1.851	1.861	1.597	1.664	1.773	1.979	2.013	
+Kuwaiti Dinar	FALSE	KWD	Kuwait		29.31166	47.481766	Kuwait	Current, USD billion	174.179	162.695	114.606	109.381	119.533	141.646	137.591	
+Burundian Franc	FALSE	BIF	Burundi		-3.373056	29.918886	Burundi	Current, USD billion	2.575	2.934	3.005	3.138	3.396	3.436	3.573	
+Papua New Guinean Kina	FALSE	PGK	Papua New Guinea		-6.314993	143.95555	Papua New Guinea	Current, USD billion	21.261	23.211	21.723	20.759	22.331	23.185	23.587	
+Somali Shilling	FALSE	SOS	Somalia		5.152149	46.199616	Somalia	Current, USD billion	3.892	3.964	4.049	4.198	4.509	4.721	4.958	
+Singapore Dollar	FALSE	SGD	Singapore		1.352083	103.819836	Singapore	Current, USD billion	307.576	314.864	307.999	318.058	338.401	364.139	362.818	
+Uzbekistani Som	FALSE	UZS	Uzbekistan		41.377491	64.585262	Uzbekistan	Current, USD billion	69.008	76.661	81.34	81.323	58.147	50.485	60.49	
+Iranian Rial	FALSE	IRR	Iran		32.427908	53.688046	Islamic Republic of Iran	Current, USD billion	396.408	423.409	375.404	404.445	430.709	446.105	458.5	
+Chinese Yuan (Onshore)	FALSE	CNY	China		35.86166	104.195397	China	Current, USD billion	9635.03	10534.53	11226.19	11221.84	12062.29	13368.07	14140.16	
+Sierra Leonean Leone	FALSE	SLL	Sierra Leone		8.460555	-11.779889	Sierra Leone	Current, USD billion	4.916	5.007	4.252	3.786	3.729	4.082	4.229	
+Tunisian Dinar	FALSE	TND	Tunisia		33.886917	9.537499	Tunisia	Current, USD billion	46.248	47.634	43.152	41.802	39.817	39.895	38.732	
+Guyanaese Dollar	FALSE	GYD	Guyana		4.860416	-58.93018	Guyana	Current, USD billion	2.988	3.078	3.197	3.504	3.606	3.899	4.121	
+New Zealand Dollar	FALSE	NZD	New Zealand		-40.900557	174.885971	New Zealand	Current, USD billion	186.98	199.756	175.404	185.058	200.47	203.127	204.671	
+Falkland Islands Pound	FALSE	FKP	Falkland Islands		-51.796253	-59.523613	Falkland Islands	Current, USD billion			0.206400000					gdp: external (IndexMundi)
+U.S. Dollar	FALSE	USD	United States,American Samoa,Br. Indian Ocean Ter.,British Virgin Is.,Ecuador,El Salvador,Guam,Marshall Is.,Micronesia,N. Mariana Is.,Palau,Panama,Puerto Rico,Sint Maarten,Timor-Leste,Turks and Caicos Is.,U.S. Virgin Is.		37.09024	-95.712891	United States	Current, USD billion	17087.86001	17840.9208	18542.0283	19034.86263	19850.88116	20915.85104	21759.332	gdp: see DRAFT_usdzone_gdp sheet
+Chinese Yuan (Offshore)	FALSE	CNH	China		35.86166	104.195397	China	Current, USD billion	9635.03	10534.53	11226.19	11221.84	12062.29	13368.07	14140.16	
+Dash	TRUE	DASH														
+Kyrgystani Som	FALSE	KGS	Kyrgyzstan		41.20438	74.766098	Kyrgyz Republic	Current, USD billion	7.335	7.467	6.678	6.813	7.703	8.093	8.261	
+Argentine Peso	FALSE	ARS	Argentina		-38.416097	-63.616672	Argentina	Current, USD billion	611.471	563.614	642.464	556.774	642.928	519.487	445.469	
+Romanian Leu	FALSE	RON	Romania		45.943161	24.96676	Romania	Current, USD billion	190.948	199.628	177.895	188.495	211.407	239.552	243.698	
+Guatemalan Quetzal	FALSE	GTQ	Guatemala		15.783471	-90.230759	Guatemala	Current, USD billion	53.851	58.722	63.767	68.663	75.62	78.461	81.318	
+Serbian Dinar	FALSE	RSD	Serbia		44.016521	21.005859	Serbia	Current, USD billion	48.394	47.062	39.629	40.63	44.12	50.509	51.523	
+Bahraini Dinar	FALSE	BHD	Bahrain		25.930414	50.637772	Bahrain	Current, USD billion	32.539	33.388	31.126	32.25	35.433	37.746	38.184	
+Japanese Yen	FALSE	JPY	Japan		36.204824	138.252924	Japan	Current, USD billion	5155.72	4850.41	4389.48	4926.67	4859.79	4971.77	5154.48	
+Sudanese Pound	FALSE	SDG	Sudan		12.862807	30.217636	Sudan	Current, USD billion	52.892	60.726	65.266	55.563	45.944	34.282	30.873	
+Gold	FALSE	XAU														
